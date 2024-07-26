@@ -1,0 +1,6 @@
+img {
+  display: none !important;
+}
+.notion-record-icon img {
+  display: initial !important;
+}

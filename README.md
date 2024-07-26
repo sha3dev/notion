@@ -1,2 +1,2 @@
-# notion
-Notion stuff
+# notion-email-exporter
+Notion email exporter

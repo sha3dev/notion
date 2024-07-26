@@ -1,0 +1,6 @@
+body,
+.notion-cursor-listener,
+.notion-frame,
+.notion-frame > div {
+  background: transparent !important;
+}
